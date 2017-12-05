@@ -12,4 +12,7 @@
 * [张仲景](zhang-zhong-jing.md)
 * [王叔和](wang-shu-he.md)
 * [中药](zhong-yao.md)
+* [副产品](fu-chan-pin.md)
+* [西医的贡献](xi-yi-de-gong-xian.md)
+* [辩证=数据建模](bian-8bc13d-shu-ju-jian-mo.md)
 
