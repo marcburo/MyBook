@@ -16,4 +16,5 @@
 * [西医的贡献](xi-yi-de-gong-xian.md)
 * [辩证=数据建模](bian-8bc13d-shu-ju-jian-mo.md)
 * [视频 课程](shi-pin-ke-cheng.md)
+* [养生测试](yang-sheng.md)
 
