@@ -9,4 +9,7 @@
 * [中医江湖的《葵花宝典》0.2](zhong-yi-jiang-hu-de-300a-kui-hua-bao-dian-300b-0-2.md)
 * [穿山甲之殇 1.0](chuan-shan-jia-zhi-shang-1-0.md)
 * [长生之道 0.5](chang-sheng-zhi-dao-0-5.md)
+* [张仲景](zhang-zhong-jing.md)
+* [王叔和](wang-shu-he.md)
+* [中药](zhong-yao.md)
 
