@@ -5,4 +5,5 @@
 * [人体=黑盒（1.0）](ren-4f533d-hei-he-ff08-1-0.md)
 * [什么是中医 1.0](shi-yao-shi-zhong-yi-1-0.md)
 * [学习中医的目的](xue-xi-zhong-yi-de-mu-de.md)
+* [数据的采集（1.0）](shu-ju-de-cai-ji-ff08-1-0.md)
 
