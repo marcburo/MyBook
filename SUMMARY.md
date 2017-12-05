@@ -6,4 +6,5 @@
 * [什么是中医 1.0](shi-yao-shi-zhong-yi-1-0.md)
 * [学习中医的目的](xue-xi-zhong-yi-de-mu-de.md)
 * [数据的采集（1.0）](shu-ju-de-cai-ji-ff08-1-0.md)
+* [中医江湖的《葵花宝典》0.2](zhong-yi-jiang-hu-de-300a-kui-hua-bao-dian-300b-0-2.md)
 
