@@ -18,4 +18,5 @@
 * [视频 课程](shi-pin-ke-cheng.md)
 * [养生测试](yang-sheng.md)
 * [sucai](su-cai.md)
+* 大样本随机双盲测试
 
