@@ -17,6 +17,6 @@
 * [辩证=数据建模](bian-8bc13d-shu-ju-jian-mo.md)
 * [视频 课程](shi-pin-ke-cheng.md)
 * [养生测试](yang-sheng.md)
-* [sucai](su-cai.md)
-* 大样本随机双盲测试
+* [素材](su-cai.md)
+* [大样本随机双盲测试](da-yang-ben-sui-ji-shuang-mang-ce-shi.md)
 
