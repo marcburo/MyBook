@@ -1,10 +1,6 @@
+#大样本随机双盲测试
 
-
-
-
-
-
-罗振宇：https://v.youku.com/v\_show/id\_XOTQwMTQ2NTcy.html
+罗振宇（来自“逻辑思维”）在他的节目里，专门做了一期关于中医的内容，叫做《罗辑思维：你怎么还信中医 118》。大家有时间可以听一下，链接来自([优酷](https://v.youku.com/v_show/id_XOTQwMTQ2NTcy.html))。
 
 
 
